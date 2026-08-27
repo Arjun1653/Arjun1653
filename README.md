@@ -13,11 +13,11 @@
 
 ---
 
-### 🔭 Currently building
+###  Currently building
 
 **[Nimbus](https://github.com/Arjun1653/Nimbus)** — a self-hosted mini cloud platform built from first principles: a custom durable key-value storage engine, Raft-based consensus, container orchestration, an observability pipeline, and an AI ops agent that diagnoses and remediates cluster problems on its own. Each layer is built from scratch, not wired together from existing infra tools.
 
-### 🧠 What I work with
+###  What I work with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1F2A44?style=flat&logo=python&logoColor=white"/>

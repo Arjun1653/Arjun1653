@@ -47,12 +47,7 @@
 | **[Algorhythm](https://github.com/Arjun1653/Algorhythm)** | Flutter DSA practice companion — spaced repetition, roadmap tracking, streaks, fully offline |
 | **[Cat-Tracker](https://github.com/Arjun1653/Cat-Tracker)** | A web app built to track and manage CAT 2026 exam prep |
 
-### 📊 GitHub stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arjun1653&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arjun1653&layout=compact&hide_title=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-</p>
 
 ---
 
